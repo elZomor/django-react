@@ -1,0 +1,6 @@
+env
+static
+frontend/build
+frontend/.idea
+frontend/node_modules
+apps/visitors/migrations
